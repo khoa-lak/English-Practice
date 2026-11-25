@@ -6,10 +6,10 @@
 
 ---
 
-## Nhịp độ luyện tập hàng ngày (20–30 phút)
-1. **Khởi động phản xạ (5 phút):** Trả lời nhanh 3–5 câu hỏi ngắn.
-2. **Luyện câu nói & sửa lỗi (15 phút):** Trả lời tình huống kỹ thuật, sửa ngữ pháp, gợi ý cách nói tự nhiên và học cấu trúc câu hỏi.
-3. **Từ vựng bỏ túi (5–10 phút):** Ghi nhớ 3–5 cụm từ chuyên ngành vừa sử dụng.
+## Nhịp độ luyện tập hàng ngày (25–35 phút)
+1. **Bài tập 1 – Khởi động phản xạ (5–10 phút):** Trả lời nhanh 3–4 câu hỏi ngắn hoặc đặt câu hỏi theo tình huống.
+2. **Bài tập 2 – Luyện nhuần nhuyễn & Biến đổi câu (10–15 phút):** Dịch phản xạ hoặc mở rộng câu nói thực tế trong công việc (đổi thì, đổi chủ ngữ, ghép nguyên nhân–kết quả) để dùng trôi chảy.
+3. **Sửa lỗi & Kiến thức câu hỏi (5–10 phút):** Phân tích lỗi sai, gợi ý cách nói tự nhiên của kỹ sư và ghi nhớ 3–5 cụm từ chuyên ngành.
 
 ---
 
